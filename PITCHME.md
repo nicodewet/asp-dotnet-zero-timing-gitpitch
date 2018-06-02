@@ -4,7 +4,7 @@ The Right Framework At The Right Time
 
 Nico de Wet
 
-![Thorgil](http://www.thorgil.com/thorgil.svg)
+![Thorgil](http://www.thorgil.com/thorgil.png)
 
 ---
 
@@ -21,25 +21,29 @@ TODO: add "manliness" image
 
 ---
 
-### Hypothetical Quicksand Scenario
+### Hypothetical Scenario
 
 - Greenfield product scenario
 - Either large enterprise or startup
 - Need to prove innovative product in market and make money
+- Two pizza (i.e. colocated) team (speaker note: remember the signifigance of this, to mention it)
+- Use open source stacks (put in or not?)
 
 --- 
 
-### Hypothetical Symptoms
+### Hypothetical Quicksand Symptoms
 
-- Slow velocity, far too long from concept to delivery
-- Pivoting makes matters worse, hard to do
+- Low velocity, far too long from concept to delivery
+- Pivoting makes velocity worse, hard to do
+- Speaker note: dangerously high staff rotation
 
 --- 
 
 ### Some Hypothetical Causes
 
 - [Probably many](https://svpg.com/top-10-reasons-for-slow-velocity/)
-- We'll focus on subset of software engineering concerns
+- Backlog unsized etc (NB: speaker note)
+- We'll focus on subset of software engineering concerns (CI/CD & good software practices)
 
 ---
 
@@ -47,7 +51,3 @@ TODO: add "manliness" image
 
 > Doing your best is not enough, you have to know what to do, then
 > do your best
-
----
-
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
