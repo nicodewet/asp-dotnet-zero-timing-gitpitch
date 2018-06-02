@@ -4,7 +4,7 @@ The Right Framework At The Right Time
 
 Nico de Wet
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Thorgil](http://www.thorgil.com/thorgil.svg)
 
 ---
 
