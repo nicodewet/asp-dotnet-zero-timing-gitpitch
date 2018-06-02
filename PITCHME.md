@@ -39,7 +39,7 @@ TODO: add "manliness" image
 ### Some Hypothetical Causes
 
 - [Probably many](https://svpg.com/top-10-reasons-for-slow-velocity/)
-- We'll focus on software engineering matters e.g. software architecture
+- We'll focus on subset of software engineering concerns
 
 ---
 
