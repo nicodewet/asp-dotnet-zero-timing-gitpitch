@@ -8,11 +8,45 @@ Nico de Wet
 
 ---
 
-### Flux Design
+### Quicksand
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- Loose wet sand that yields easily to pressure and sucks in anything resting on or falling into it.
+- A bad or dangerous situation from which it is hard to escape.
+
+---
+
+### How to escape Quicksand
+
+TODO: add "manliness" image
+
+---
+
+### Hypothetical Quicksand Scenario
+
+- Greenfield product scenario
+- Either large enterprise or startup
+- Need to prove innovative product in market and make money
+
+--- 
+
+### Hypothetical Symptoms
+
+- Slow velocity, far too long from concept to delivery
+- Pivoting makes matters worse, hard to do
+
+--- 
+
+### Some Hypothetical Causes
+
+- [Probably many](https://svpg.com/top-10-reasons-for-slow-velocity/)
+- We'll focus on software engineering matters e.g. software architecture
+
+---
+
+### W. Edwards Deming
+
+> Doing your best is not enough, you have to know what to do, then
+> do your best
 
 ---
 
