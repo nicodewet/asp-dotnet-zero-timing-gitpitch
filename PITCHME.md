@@ -10,12 +10,14 @@ Nico de Wet
 
 ## Software Delivery Quicksand
 
-- Useful metaphor
-- Second definition applies
-
 > 1. Loose wet sand that yields easily to pressure and sucks in anything resting on or falling into it.
 > 2. A bad or dangerous situation from which it is hard to escape.
 
+---
+
+## Software Delivery Quicksand
+
+- Useful metaphor
 - ASP.NET Zero may help in some situations
 
 ---
