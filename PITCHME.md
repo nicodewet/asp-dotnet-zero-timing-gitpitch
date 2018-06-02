@@ -8,20 +8,33 @@ Nico de Wet
 
 ---
 
-### Quicksand
+## Software Delivery Quicksand
 
-- Loose wet sand that yields easily to pressure and sucks in anything resting on or falling into it.
-- A bad or dangerous situation from which it is hard to escape.
+- Useful metaphor
+- Second definition applies
+
+> 1. Loose wet sand that yields easily to pressure and sucks in anything resting on or falling into it.
+> 2. A bad or dangerous situation from which it is hard to escape.
+
+- ASP.NET Zero may help in some situations
 
 ---
 
-### How to escape Quicksand
+## The Art of Manliness
 
-TODO: add "manliness" image
+- [How to Escape Quicksand: An Illustrated Guide](https://www.artofmanliness.com/articles/how-to-escape-quicksand-an-illustrated-guide/)
+- Step 1 is knowing you are in it
 
 ---
 
-### Hypothetical Scenario
+## W. Edwards Deming
+
+> Doing your best is not enough, you have to know what to do, then
+> do your best
+
+---
+
+## Hypothetical Scenario
 
 - Greenfield product scenario
 - Either large enterprise or startup
@@ -31,7 +44,7 @@ TODO: add "manliness" image
 
 --- 
 
-### Hypothetical Quicksand Symptoms
+## Hypothetical Quicksand Symptoms
 
 - Low velocity, far too long from concept to delivery
 - Pivoting makes velocity worse, hard to do
@@ -39,15 +52,8 @@ TODO: add "manliness" image
 
 --- 
 
-### Some Hypothetical Causes
+## Some Hypothetical Causes
 
 - [Probably many](https://svpg.com/top-10-reasons-for-slow-velocity/)
 - Backlog unsized etc (NB: speaker note)
 - We'll focus on subset of software engineering concerns (CI/CD & good software practices)
-
----
-
-### W. Edwards Deming
-
-> Doing your best is not enough, you have to know what to do, then
-> do your best
