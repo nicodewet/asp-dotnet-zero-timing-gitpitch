@@ -2,6 +2,10 @@
 
 To view this presentation please navigate to https://gitpitch.com/nicodewet/asp-dotnet-zero-timing-gitpitch/master
 
+The presentation has hyperlinks and attribution in it so if anyone is interested in some of the references they can check it out afterwards in their own time.
+
+Also, I've used speakers notes to reduce the verbosity of the slides and they may be useful to readers afterwards. If anything needs work in your opinion please do let me know, any and all feedback would be welcome.
+
 ## LICENSE
 
 ### ASP.NET Zero

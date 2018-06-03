@@ -15,7 +15,7 @@ Nico de Wet
 
 ---
 
-## The Metaphor and ASP.NET Zero
+## Quicksand and ASP.NET Zero
 
 - Useful metaphor
 - ASP.NET Zero *may* help in some situations
@@ -61,8 +61,12 @@ Nico de Wet
 
 ## Quicksand Symptoms
 
-- Team remains in storming phase
+- Team remains in [storming phase](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development)
 - Low trust
+
+Note:
+Remember to mention Bruce Tuckman as professor of psychology who first proposed
+the forming-storming-norming-performing model of group development.
 
 --- 
 
@@ -73,10 +77,10 @@ Nico de Wet
 
 ---
 
-## Engineering Team Concern: Type of Experience
+## Engineering Team Concern: Culture
 
-- Too much established business engineering experience
-- Don't write hundreds of SPA unit tests
+- "Startup" culture problems
+- Maturity and pedigree (A players won't play with Z players)
 
 ---
 
@@ -186,7 +190,7 @@ Nico de Wet
 
 - Better to have a successful monolith than a failed nanoservices architecture
 - Splitting up a well built monolith a good problem to have
-- Never forget conways law
+- Never forget conways law & value to the end user
 
 ---
 
