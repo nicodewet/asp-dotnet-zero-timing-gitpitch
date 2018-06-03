@@ -195,12 +195,20 @@ Nico de Wet
 
 - Relatively speaking, simple, however ...
 - "AWS certified" still required
-- [blog](https://aws.amazon.com/blogs/compute/set-up-a-continuous-delivery-pipeline-for-containers-using-aws-codepipeline-and-amazon-ecs/)
-- [tut](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-cd-pipeline.html)
+- [reference blog](https://aws.amazon.com/blogs/compute/set-up-a-continuous-delivery-pipeline-for-containers-using-aws-codepipeline-and-amazon-ecs/)
+- [reference tut](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-cd-pipeline.html)
 
 --- 
 
 ## AWS CodeBuild (buildspec.yml)
+
+---
+
+## ASP.NET Zero Features
+
+---
+
+## JHipster Features
 
 ---
 
