@@ -107,7 +107,7 @@ Nico de Wet
 
 ## Engineering Team Concern: Adaptability
 
-- Some engineers are good for a v1 (prototype) build
+- Some engineers are good for a [v1 (prototype) build](https://queue.acm.org/detail.cfm?id=2841311)
 - Some engineers are good for a v2 build
 - Some can adapt to both, some can't
 
@@ -122,8 +122,8 @@ Nico de Wet
 ## Engineering Team Concern: Rotation
 
 - Can react to rotation
-- Can *control cognitive* load on team
-- Can *control cognitive* load on **newcomers**
+- Can control *cognitive load* on team
+- Can control *cognitive load* on maintainers
 
 ---
 
@@ -148,7 +148,7 @@ Nico de Wet
 
 - [Expecting Professionalism](https://youtu.be/NsNC47mdi4E) 
 - Clean, framework free code.
-- "We will not ship shit."
+- **"We will not ship shit."**
 - No going back from green light development.
 
 ---
