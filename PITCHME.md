@@ -47,8 +47,7 @@ Nico de Wet
 ## Hypothetical Scenario
 
 - Two pizza (i.e. colocated) team
-- Use open source stacks (put in or not?)
-- Agile SDLC
+- [Some form of agile SDLC](https://youtu.be/l1wKO3rID9g)
 
 --- 
 
