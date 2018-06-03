@@ -182,12 +182,20 @@ Nico de Wet
 
 ---
 
+## Monolith
+
+- Better to have a successful monolith than a failed nanoservices architecture
+- Splitting up a well built monolith a good problem to have
+- Never forget conways law
+
+---
+
 ## Key Framework SDLC Benefits
 
 - UI *constrained* by existing patterns
 - SPA complexity deferred
 - SOFEA (service oriented front end architecture)
-- Developers can focus on service layers
+- Developers can focus on service layers & use a debugger
 
 ---
 
@@ -206,12 +214,28 @@ Nico de Wet
 
 ## ASP.NET Zero Features
 
+- Multi-tenancy
+- Organization Units, Roles, Users, Languages
+- Internationalization
+- RAD tooling
+- **Lots of quality sample code and tests**
+
 ---
 
 ## JHipster Features
 
+- Awareness, as pragmatic programmers
+
 ---
 
 ## ASP.NET Zero Core MVC and jQuery
+
+---
+
+## Backlog Bits
+
+- Many to Many with EF Core 2
+- Speed up build and test run
+- Visual Studio for Mac
 
 ---
