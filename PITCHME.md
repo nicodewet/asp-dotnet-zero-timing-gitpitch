@@ -15,10 +15,10 @@ Nico de Wet
 
 ---
 
-## Software Delivery Quicksand
+## The Metaphor and ASP.NET Zero
 
 - Useful metaphor
-- ASP.NET Zero may help in some situations
+- ASP.NET Zero *may* help in some situations
 
 ---
 
@@ -41,21 +41,119 @@ Nico de Wet
 - Greenfield product scenario
 - Either large enterprise or startup
 - Need to prove innovative product in market and make money
-- Two pizza (i.e. colocated) team (speaker note: remember the signifigance of this, to mention it)
+
+---
+
+## Hypothetical Scenario
+
+- Two pizza (i.e. colocated) team
 - Use open source stacks (put in or not?)
+- Agile SDLC
 
 --- 
 
-## Hypothetical Quicksand Symptoms
+## Quicksand Symptoms
 
 - Low velocity, far too long from concept to delivery
 - Pivoting makes velocity worse, hard to do
-- Speaker note: dangerously high staff rotation
+- Team rotation
+
+--- 
+
+## Quicksand Symptoms
+
+- Team remains in storming phase
+- Low trust
 
 --- 
 
 ## Some Hypothetical Causes
 
 - [Probably many](https://svpg.com/top-10-reasons-for-slow-velocity/)
-- Backlog unsized etc (NB: speaker note)
-- We'll focus on subset of software engineering concerns (CI/CD & good software practices)
+- We'll focus on subset of software engineering concerns
+
+---
+
+## Engineering Team Concern: Type of Experience
+
+- Too much established business engineering experience
+- Don't write hundreds of SPA unit tests
+
+---
+
+## Lean Enterprise Fundamentals
+
+- Lean Enterprise: How High Performance Organizations Innovate At Scale
+
+> There are no awards for elegance of software design or automated test coverage
+> in an MVP - the more skeletal, the better, provided we can gather the
+> information we need.
+
+---
+
+## Lean Enterprise Caveat
+
+- Waterfall works when copying a proven idea
+- Re-use existing software to move fast
+
+---
+
+## Hotel Booking Example
+
+- 
+
+---
+
+---
+
+## Engineering Team Concern: Adaptability
+
+- Some engineers are good for a v1 (prototype) build
+- Some engineers are good for a v2 build
+- Some can adapt to both, some can't
+
+---
+
+## Engineering Team Concern: Rotation
+
+- Cannot predict rotation at start
+
+---
+
+## Engineering Team Concern: Rotation
+
+- Can react to rotation
+- Can *control cognitive* load on team
+- Can *control cognitive* load on **newcomers**
+
+---
+
+## Making KickAss Developers
+
+- Going from A to C
+- The effect of high quality teaching
+- Spring Core
+
+---
+
+## Uncle Bob
+
+- Clean, framework free code
+
+---
+
+## Engineering Team Concern: Rotation
+
+- *Can* control scope
+- *Can* press reset button
+- *Can* move to the norming-performing stages
+
+--- 
+
+## Hypothetical Architecture Before Reset
+
+---
+
+## Architecture After Reset
+
+---
