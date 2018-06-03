@@ -100,9 +100,9 @@ Nico de Wet
 
 ## Hotel Booking Example
 
-- 
-
----
+- Most profitable code I've written.
+- Adapted 2007 [JBoss Seam Hotel Booking example](https://access.redhat.com/documentation/en-US/JBoss_Enterprise_Web_Platform/5/html/Seam_Reference_Guide/booking.html).
+- Never mastered entire stack.
 
 ---
 
@@ -155,5 +155,12 @@ Nico de Wet
 ---
 
 ## Architecture After Reset
+
+---
+
+## Key Framework SDLC Benefits
+
+- UI *constrained* by existing patterns
+- Developers can focus on service layers
 
 ---
