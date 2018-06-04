@@ -109,8 +109,17 @@ Remember to mention that we can change the culture. Not overnight, but in time.
 
 ## Lean Enterprise Caveat
 
-- Waterfall works when copying a proven idea
+- Waterfall works when perfecting a proven idea or well understood domain
 - Re-use existing software to move fast
+
+Note:
+
+Using the word perfecting in the sense that if you come second you are not copying.
+Its easier since you can observe the incumbent and enhance a business model with
+software.
+
+Could mention the ISP domain in with open source software such as freeradius and
+dd-wrt.
 
 ---
 
@@ -173,10 +182,30 @@ a prototype (v1) out because you may never get it out (risk of overengineering a
 
 ## Robert C. Martin
 
-- [Expecting Professionalism](https://youtu.be/NsNC47mdi4E) 
+- [Expecting Professionalism](https://youtu.be/BSaAMQVq01E) 
 - Clean, framework free code.
 - **"We will not ship shit."**
 - No going back from green light development.
+
+Note:
+
+Encourage audience to look at the notes summary of [Expecting Professionalism](https://youtu.be/BSaAMQVq01E):
+
+Expecting Professionalism - Robert C. Martin
+1. We Will Not Ship Shit
+2. We Will Always Be Ready (deployable after each dev't cycle)
+3. Stable Productivity (same speed a year ahead / not slowed by bad code)
+4. Inexpensive Adaptability (easy to change the code/software)
+5. Continuous Improvement (of code, design, system over time)
+6. Fearless Competence (use test-driven development)
+7. Extreme Quality (why do we need a bug-tracking system?)
+8. We Will Not Dump On QA (they should find no defects; it should be front-end test-design and trying to break the system)
+9. Nothing Fragile
+10. We Cover For Each Other (ensure someone on your team can cover for you)
+11. Honest Estimates (give expected time and window of best/worst cases)
+12. You Were Hired to Say "No" (To Unrealistic Deadlines)
+13. Continuous Aggressive Learning (surf the wave of software popularity; 10-15h/wk extra)
+14. Mentoring (# of programmers doubles every 5yrs = 1/2 group has under 5yrs exp. = perpetual inexperience)
 
 ---
 
@@ -233,6 +262,12 @@ a prototype (v1) out because you may never get it out (risk of overengineering a
 - [reference blog](https://aws.amazon.com/blogs/compute/set-up-a-continuous-delivery-pipeline-for-containers-using-aws-codepipeline-and-amazon-ecs/)
 - [reference tut](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-cd-pipeline.html)
 
+Note:
+
+On the "AWS certified" front. Not every team member will become "AWS certified" and so
+will break the "13. Continuous Aggressive Learning" rule
+from [Expecting Professionalism](https://youtu.be/BSaAMQVq01E).
+
 ---
 
 ## AWS ECS CD Reference Architecture
@@ -270,5 +305,10 @@ a prototype (v1) out because you may never get it out (risk of overengineering a
 - Many to Many with EF Core 2
 - Speed up build and test run
 - Visual Studio for Mac
+- Broke the "We Cover For Each Other" rule when building pipeline
+
+Note:
+
+Remind audience that the rule comes from [Expecting Professionalism](https://youtu.be/BSaAMQVq01E).
 
 ---
