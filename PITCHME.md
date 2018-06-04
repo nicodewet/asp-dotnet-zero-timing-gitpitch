@@ -133,9 +133,10 @@ dd-wrt.
 
 ## Engineering Team Concern: Adaptability
 
-- Some engineers are good for a [v1 (prototype) build](https://queue.acm.org/detail.cfm?id=2841311)
-- Some engineers are good for a v2 build
-- Some can adapt to both, some can't
+- Some engineers are good for a [v1 (prototype) build](https://queue.acm.org/detail.cfm?id=2841311).
+- Some engineers are good for a v2 build.
+- Some can adapt to both, some can't.
+- Some environments cannot support a v1/v2 development process.  
 
 Note:
 
@@ -146,6 +147,9 @@ The process is called the v1/v2 development process.
 Remember to mention that some engineers may not be able to ever accept working on v1 with its associated style
 even though that is what is required in a given situation. Clearly this will be a problem when trying to get
 a prototype (v1) out because you may never get it out (risk of overengineering and so on).
+
+Mention that the contract of the v1/v2 development process cannot be broken. If engineers feel they may be
+forced to break the contract they should not follow a v1/v2 development process.
 
 ---
 
@@ -166,8 +170,15 @@ a prototype (v1) out because you may never get it out (risk of overengineering a
 ## Engineering Team Concern: Rotation
 
 - *Can* control scope
-- *Can* press reset button
-- *Can* move to the norming-performing stages
+- *Can* press reset button (or **stop**)
+- *Can* move to the [norming-performing](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development) stages
+
+Note:
+
+The stop option in some cases comes down to ethics and professional conduct
+i.e. ethically and professionally correct to recommend. See the
+[ACM Code of Ethics and Professional Conduct](https://www.acm.org/about-acm/acm-code-of-ethics-and-professional-conduct).
+Ultimately this option should be discussed with sponsors.
 
 ---
 
@@ -206,6 +217,8 @@ Expecting Professionalism - Robert C. Martin
 12. You Were Hired to Say "No" (To Unrealistic Deadlines)
 13. Continuous Aggressive Learning (surf the wave of software popularity; 10-15h/wk extra)
 14. Mentoring (# of programmers doubles every 5yrs = 1/2 group has under 5yrs exp. = perpetual inexperience)
+
+Might be worth mentioning the [ACM Code of Ethics and Professional Conduct](https://www.acm.org/about-acm/acm-code-of-ethics-and-professional-conduct) does exist.
 
 ---
 
