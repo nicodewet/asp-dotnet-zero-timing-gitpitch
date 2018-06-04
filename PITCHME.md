@@ -273,7 +273,7 @@ say changing an entire stack. Trust and buy-in required.
 ## Ward Cunningham: Debt Metaphor Misunderstanding
 
 - Poorly written code is **not** technical debt.
-- Poorly written infrastructure-as-code (serverless architecturing) is also **not** technical debt.
+- Poorly written infrastructure-as-code (serverless architecting) is also **not** technical debt.
 
 > I'm never in favour of writing code poorly but I am in favour of writing code that reflects your current
 > understanding of a problem even if that understanding is partial. The ability to pay back debt and make
