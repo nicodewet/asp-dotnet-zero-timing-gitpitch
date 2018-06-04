@@ -93,6 +93,8 @@ individuals may expect "startup" behaviour such as arriving late to meetings
 and playing foosball where as this won't work for others or generally 
 causing friction.
 
+Remember to mention that we can change the culture. Not overnight, but in time.
+
 ---
 
 ## Lean Enterprise Fundamentals
@@ -125,6 +127,16 @@ causing friction.
 - Some engineers are good for a [v1 (prototype) build](https://queue.acm.org/detail.cfm?id=2841311)
 - Some engineers are good for a v2 build
 - Some can adapt to both, some can't
+
+Note:
+
+Remember to refer to the referenced article as "Lean Software Development- Building and Shipping Two Versions" by
+Kate Matsudaira in which she talks about catering to developer's strengths while still meeting team objectives.
+The process is called the v1/v2 development process.
+
+Remember to mention that some engineers may not be able to ever accept working on v1 with its associated style
+even though that is what is required in a given situation. Clearly this will be a problem when trying to get
+a prototype (v1) out because you may never get it out (risk of overengineering and so on).
 
 ---
 
