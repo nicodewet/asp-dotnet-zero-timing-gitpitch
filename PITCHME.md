@@ -82,6 +82,17 @@ the forming-storming-norming-performing model of group development.
 - "Startup" culture problems
 - Maturity and pedigree (A players won't play with Z players)
 
+Note:
+Remember to mention that in terms of maturity it is important that employees
+understand the levers that drive the business given the stage it is in. Being
+financially savvy and business savvy is important. It's important for leaders
+to clearly communicate what behaviours will drive success.
+
+Also remember to mention that efficiency matters in a startup and that some
+individuals may expect "startup" behaviour such as arriving late to meetings
+and playing foosball where as this won't work for others or generally 
+causing friction.
+
 ---
 
 ## Lean Enterprise Fundamentals
