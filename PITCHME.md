@@ -184,10 +184,10 @@ Ultimately this option should be discussed with sponsors.
 
 ## Kathy Sierra
 
-- [Making Badass Developers](https://youtu.be/FKTxC9pl-WM)
-- Going from A to C
-- The effect of high quality teaching
-- [Core Spring Training](https://pivotal.io/training/courses/core-spring-training)
+- [Making Badass Developers](https://youtu.be/FKTxC9pl-WM).
+- Going from A to C.
+- The effect of high quality teaching (and code).
+- [Core Spring Training](https://pivotal.io/training/courses/core-spring-training).
 
 ---
 
@@ -229,6 +229,18 @@ Might be worth mentioning the [ACM Code of Ethics and Professional Conduct](http
 - "Tip 5: Be a Catalyst for Change"
 - "Tip 8: Invest Regularly in Your Knowledge Portfolio"
 - Languages to Learn ...
+
+---
+
+## Reset Decision
+
+- Reset means start construction from scratch
+- May entail architectural and likely to entail voluntary team changes
+- No team *wants* to fail, elevated professionalism and sometimes saying "no" paramount
+
+Note:
+
+Remind the audience to watch Robert C. Martin's talk and follow the [Expecting Professionalism](https://youtu.be/BSaAMQVq01E) rules.
 
 ---
 
