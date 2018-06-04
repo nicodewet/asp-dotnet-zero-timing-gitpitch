@@ -259,7 +259,9 @@ say changing an entire stack. Trust and buy-in required.
 - Poorly written infrastructure-as-code (serverless architecturing) is also **not** technical debt.
 
 > I'm never in favour of writing code poorly but I am in favour of writing code that reflects your current
-> understanding of a problem even if that understanding is partial.
+> understanding of a problem even if that understanding is partial. The ability to pay back debt and make
+> the debt metaphor work for your advantage depends upon on you writing code that is clean enough to be able
+> to refactor as you come to understand your problem.
 
 [Ward Cunningham, 14 Feb 2009](https://youtu.be/pqeJFYwnkjE)
 
