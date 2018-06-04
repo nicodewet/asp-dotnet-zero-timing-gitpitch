@@ -271,6 +271,8 @@ Note:
 and confused it with the idea that you could write code poorly with the intention of doing a good job later and thinking that
 that is the primary source of debt."
 
+Introduce [Ward Cunningham](https://en.wikipedia.org/wiki/Ward_Cunningham).
+
 ---
 
 ## Reset Decision
