@@ -81,9 +81,15 @@ the forming-storming-norming-performing model of group development.
 
 - MCSEs instead of CS degrees during [dot-com bubble (~ 1997 - 2001)](https://en.wikipedia.org/wiki/Dot-com_bubble).
 - At the end of 2010s beware of cloud certifications and "certified cloud consultants". Cloud bubble.
-- Many IT advisors still out there from Dot-com bubble days that didn't even bother with MCSE.
+- Many IT advisors, including architects, still out there from Dot-com bubble days that didn't even bother with MCSE.
 
-Note: Worth noting to the audience that I did recently do the AWS Solutions Architect certification.
+Note:
+
+Worth noting to the audience that I did recently do the AWS Solutions Architect certification, but it not
+all I've got by any means.
+
+Worth noting the effect on team morale in cases where sponsors choose to use the advise of incompetent,
+unqualified, inexperienced IT consultants, of which there are many.
 
 ---
 
@@ -244,6 +250,24 @@ Note:
 
 Here I want to mention that pragmatic programmers would be required when
 say changing an entire stack. Trust and buy-in required.
+
+--- 
+
+## Ward Cunningham: Debt Metaphor Misunderstanding
+
+- Poorly written code is **not** technical debt.
+- Poorly written infrastructure-as-code (serverless architecturing) is also **not** technical debt.
+
+> I'm never in favour of writing code poorly but I am in favour of writing code that reflects your current
+> understanding of a problem even if that understanding is partial.
+
+[Ward Cunningham, 14 Feb 2009](https://youtu.be/pqeJFYwnkjE)
+
+Note:
+
+"Repay that loan by refactoring the program to reflect your experience as you acquired it. Bloggers have explained the metaphor
+and confused it with the idea that you could write code poorly with the intention of doing a good job later and thinking that
+that is the primary source of debt."
 
 ---
 
