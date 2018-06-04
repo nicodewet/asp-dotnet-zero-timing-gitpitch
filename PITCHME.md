@@ -221,6 +221,12 @@ causing friction.
 - [reference blog](https://aws.amazon.com/blogs/compute/set-up-a-continuous-delivery-pipeline-for-containers-using-aws-codepipeline-and-amazon-ecs/)
 - [reference tut](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-cd-pipeline.html)
 
+---
+
+## AWS ECS CD Reference Architecture
+
+![AWS ECS CD Reference Architecture](images/aws_ecs_reference_architecture.png)
+
 --- 
 
 ## AWS CodeBuild (buildspec.yml)
