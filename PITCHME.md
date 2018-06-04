@@ -237,7 +237,7 @@ a prototype (v1) out because you may never get it out (risk of overengineering a
 
 ## AWS ECS CD Reference Architecture
 
-![AWS ECS CD Reference Architecture](images/aws_ecs_reference_architecture.png)
+![AWS ECS CD Reference Architecture](images/aws_ecs_reference_cd_architecture.png)
 
 --- 
 
