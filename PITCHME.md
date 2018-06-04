@@ -77,6 +77,16 @@ the forming-storming-norming-performing model of group development.
 
 ---
 
+## Engineering Advisor Concern: Incompetence
+
+- MCSEs instead of CS degrees during [dot-com bubble (~ 1997 - 2001)](https://en.wikipedia.org/wiki/Dot-com_bubble).
+- At the end of 2010s beware of cloud certifications and "certified cloud consultants". Cloud bubble.
+- Many IT advisors still out there from Dot-com bubble days that didn't even bother with MCSE.
+
+Note: Worth noting to the audience that I did recently do the AWS Solutions Architect certification.
+
+---
+
 ## Engineering Team Concern: Culture
 
 - "Startup" culture problems
@@ -230,12 +240,18 @@ Might be worth mentioning the [ACM Code of Ethics and Professional Conduct](http
 - "Tip 8: Invest Regularly in Your Knowledge Portfolio"
 - Languages to Learn ...
 
+Note:
+
+Here I want to mention that pragmatic programmers would be required when
+say changing an entire stack. Trust and buy-in required.
+
 ---
 
 ## Reset Decision
 
 - Reset means start construction from scratch
-- May entail architectural and likely to entail voluntary team changes
+- May entail architectural changes and likely to entail voluntary team changes
+- Pragmatic programmers may be required
 - No team *wants* to fail, elevated professionalism and sometimes saying "no" paramount
 
 Note:
@@ -261,13 +277,27 @@ Remind the audience to watch Robert C. Martin's talk and follow the [Expecting P
 - Two docker containers (highly portable, limited lock-in)
 - [Simple pure AWS CD pipeline](https://github.com/awslabs/ecs-refarch-continuous-deployment)
 
+Note:
+
+Worth mentioning pragmatic programmer requirement again here. Engineers will go from
+Javascript to C# as main language.
+
 ---
 
 ## Monolith
 
 - Better to have a successful monolith than a failed nanoservices architecture
-- Splitting up a well built monolith a good problem to have
+- Splitting up a **well built** monolith a good problem to have
 - Never forget conways law & value to the end user
+
+---
+
+## Monolith First
+
+> It may be hard to scale a poorly designed but successful software system,
+> but that's still a better place to be than its inverse.
+
+[Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html).
 
 ---
 
@@ -277,6 +307,9 @@ Remind the audience to watch Robert C. Martin's talk and follow the [Expecting P
 - SPA complexity deferred
 - SOFEA (service oriented front end architecture)
 - Developers can focus on service layers & use a debugger
+
+Note: Worth noting that UI constraints could help mitigate the effects of a
+broken SDLC such as a cargo cult engineering process.
 
 ---
 
