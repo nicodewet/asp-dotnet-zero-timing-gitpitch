@@ -93,6 +93,24 @@ unqualified, inexperienced IT consultants, of which there are many.
 
 ---
 
+## Engineering Industry Concern
+
+- No regulation or controls whatsoever
+- No practitioner licensing (e.g. doctors, nurses, civil engineers)
+- No engineering code compliance or mandatory inspections
+- Public generally has no recourse
+
+> A cottage industry.
+
+Dr. Paul Chapman
+
+Note:
+
+HTML programming scam on my mother. Countless projects started with
+no hope of finishing or succeeding, but sponsors parted with funds.
+
+---
+
 ## Engineering Team Concern: Culture
 
 - "Startup" culture problems
@@ -143,7 +161,6 @@ dd-wrt.
 
 - Most profitable production prototype I've written.
 - Adapted 2007 [JBoss Seam Hotel Booking example](https://access.redhat.com/documentation/en-US/JBoss_Enterprise_Web_Platform/5/html/Seam_Reference_Guide/booking.html).
-- Never mastered entire stack.
 
 ---
 
