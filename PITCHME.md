@@ -169,10 +169,16 @@ Remember to mention that we can change the culture. Not overnight, but in time.
 > in an MVP - the more skeletal, the better, provided we can gather the
 > information we need.
 
+Note:
+
+The same goes for a v1 (throwaway) prototype that is strictly for demo or requirements
+elicitation purposes.
+
 ---
 
 ## Lean Enterprise Caveat
 
+- Agile / scrum not a given
 - Waterfall works when perfecting a proven idea or well understood domain
 - Re-use existing software to move fast
 
