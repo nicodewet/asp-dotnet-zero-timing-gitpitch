@@ -28,8 +28,9 @@ Nico de Wet
 
 Note:
 
-- [How to Escape Quicksand: An Illustrated Guide](https://www.artofmanliness.com/articles/how-to-escape-quicksand-an-illustrated-guide/)
-- Step 1 is knowing you are in it
+[How to Escape Quicksand: An Illustrated Guide](https://www.artofmanliness.com/articles/how-to-escape-quicksand-an-illustrated-guide/)
+
+Step 1 is knowing you are in it
 
 ---
 
@@ -89,11 +90,16 @@ the forming-storming-norming-performing model of group development.
 
 ## Engineering Advisor Concern: Incompetence
 
-- MCSEs instead of CS degrees during [dot-com bubble (~ 1997 - 2001)](https://en.wikipedia.org/wiki/Dot-com_bubble).
-- At the end of 2010s beware of cloud certifications and "certified cloud consultants". Cloud bubble.
-- Many IT advisors, including architects, still out there from Dot-com bubble days that didn't even bother with MCSE.
+- 1998 [dot-com bubble (~ 1997 - 2001)](https://en.wikipedia.org/wiki/Dot-com_bubble): **MCSEs**
+- 2018 cloud bubble: **cloud architects**
 
 Note:
+
+MCSEs instead of CS degrees during [dot-com bubble (~ 1997 - 2001)](https://en.wikipedia.org/wiki/Dot-com_bubble).
+
+At the end of 2010s beware of cloud certifications and "certified cloud consultants". Cloud bubble.
+
+Many IT advisors, including architects, still out there from Dot-com bubble days that didn't even bother with MCSE.
 
 Worth noting to the audience that I did recently do the AWS Solutions Architect certification, but it not
 all I've got by any means.
