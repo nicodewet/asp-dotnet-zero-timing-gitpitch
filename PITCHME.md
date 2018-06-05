@@ -77,6 +77,12 @@ the forming-storming-norming-performing model of group development.
 
 ---
 
+## Snake Oil
+
+![Snake Oil](images/snake_oil.png)
+
+---
+
 ## Engineering Advisor Concern: Incompetence
 
 - MCSEs instead of CS degrees during [dot-com bubble (~ 1997 - 2001)](https://en.wikipedia.org/wiki/Dot-com_bubble).
@@ -95,11 +101,6 @@ unqualified, inexperienced IT consultants, of which there are many.
 
 ## Engineering Industry Concern
 
-- No regulation or controls whatsoever
-- No practitioner licensing (e.g. doctors, nurses, civil engineers)
-- No engineering code compliance or mandatory inspections
-- Public generally has no recourse
-
 > A cottage industry.
 
 Dr. Paul Chapman
@@ -108,6 +109,14 @@ Note:
 
 HTML programming scam on my mother. Countless projects started with
 no hope of finishing or succeeding, but sponsors parted with funds.
+
+No regulation or controls whatsoever
+
+No practitioner licensing (e.g. doctors, nurses, civil engineers)
+
+No engineering code compliance or mandatory inspections
+
+Public generally has no recourse
 
 ---
 
