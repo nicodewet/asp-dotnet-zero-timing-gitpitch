@@ -111,6 +111,17 @@ no hope of finishing or succeeding, but sponsors parted with funds.
 
 ---
 
+## Aside: "The Ghost"
+
+- Software system loses millions of dollars of stock.
+- Remains a mystery aka "the ghost".
+
+Note:
+
+No QA, no testers. Extremely demotivated engineers.
+
+---
+
 ## Engineering Team Concern: Culture
 
 - "Startup" culture problems
@@ -161,6 +172,7 @@ dd-wrt.
 
 - Most profitable production prototype I've written.
 - Adapted 2007 [JBoss Seam Hotel Booking example](https://access.redhat.com/documentation/en-US/JBoss_Enterprise_Web_Platform/5/html/Seam_Reference_Guide/booking.html).
+- Shallow learning.
 
 ---
 
