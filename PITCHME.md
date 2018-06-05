@@ -207,6 +207,13 @@ forced to break the contract they should not follow a v1/v2 development process.
 
 ---
 
+## Engineering Team Concern: Communication
+
+- Not easy to pick up that client needs a v1 (protoype for conceptual demos)
+- Hard sell to engineers trying to build their careers
+
+---
+
 ## Engineering Team Concern: Rotation
 
 - Cannot predict rotation at start
@@ -401,6 +408,8 @@ from [Expecting Professionalism](https://youtu.be/BSaAMQVq01E).
 
 ## AWS CodeBuild (buildspec.yml)
 
+- Show
+
 ---
 
 ## ASP.NET Zero Features
@@ -420,6 +429,8 @@ from [Expecting Professionalism](https://youtu.be/BSaAMQVq01E).
 ---
 
 ## ASP.NET Zero Core MVC and jQuery
+
+- Demo
 
 ---
 
