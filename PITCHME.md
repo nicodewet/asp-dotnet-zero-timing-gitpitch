@@ -22,7 +22,11 @@ Nico de Wet
 
 ---
 
-## The Art of Manliness
+## Step 1: Have To Know Its Quicksand
+
+![Have To Know Its Quicksand](images/Escape-Quicksand-2.jpg)
+
+Note:
 
 - [How to Escape Quicksand: An Illustrated Guide](https://www.artofmanliness.com/articles/how-to-escape-quicksand-an-illustrated-guide/)
 - Step 1 is knowing you are in it
