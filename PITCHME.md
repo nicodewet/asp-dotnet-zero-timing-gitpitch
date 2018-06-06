@@ -430,7 +430,7 @@ from [Expecting Professionalism](https://youtu.be/BSaAMQVq01E).
 
 ## AWS CodeBuild (buildspec.yml)
 
-- Show
+- [buildspec.yml](buildspec.yml)
 
 ---
 
@@ -444,9 +444,23 @@ from [Expecting Professionalism](https://youtu.be/BSaAMQVq01E).
 
 ---
 
+## ASP.NET Zero Pitch
+
+![ABP High Level](images/abp_high_level.png)
+
+---
+
+## ASP.NET Zero Concerns
+
+![ABP Concerns](images/abp-concerns.png)
+
+---
+
 ## JHipster Features
 
-- Awareness, as pragmatic programmers
+![Jhipster](images/jhipster.png)
+
+Note: awareness, as pragmatic programmers
 
 ---
 
@@ -461,7 +475,7 @@ from [Expecting Professionalism](https://youtu.be/BSaAMQVq01E).
 - Many to Many with EF Core 2
 - Speed up build and test run
 - Visual Studio for Mac
-- Broke the "We Cover For Each Other" rule when building pipeline
+- Don't break the "We Cover For Each Other" rule when building pipeline
 
 Note:
 
