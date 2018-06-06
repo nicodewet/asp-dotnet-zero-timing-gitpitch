@@ -201,6 +201,12 @@ dd-wrt.
 
 ---
 
+## Hotel Booking Example
+
+![Hotel Booking Image](images/jboss_seam_hotel_booking.png)
+
+---
+
 ## Engineering Team Concern: Adaptability
 
 - Some engineers are good for a [v1 (prototype) build](https://queue.acm.org/detail.cfm?id=2841311).
