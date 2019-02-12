@@ -1,6 +1,6 @@
-# ASP.NET Zero
+# Escaping Software Delivery Quicksand
 
-The Right Framework At The Right Time?
+A startup war story.
 
 Nico de Wet
 
