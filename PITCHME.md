@@ -488,8 +488,9 @@ Remind audience that the rule comes from [Expecting Professionalism](https://you
 
 - Have to realise you are in quicksand
 - Particular type of team *may* be able to help
-- 2 out of 3 developers put saving the company ahead of themselves
-- 2 out of 3 developers with 50 years combined experience **parked their lofty titles** (CTO, Lead / Architect)
+2 out of 3 developers:
+- put the company ahead of themselves
+- **parked their lofty titles** (CTO, Lead / Architect)
 
 ---
 
