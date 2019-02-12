@@ -483,3 +483,17 @@ Note:
 Remind audience that the rule comes from [Expecting Professionalism](https://youtu.be/BSaAMQVq01E).
 
 ---
+
+## Conclusion
+
+- Have to realise you are in quicksand
+- A particular type of team *may* be able to give hope of escape
+
+---
+
+## Conclusion: Pivotal Moments
+
+- Having the bravery to start from scratch was key
+- Architectural simplifaction was key
+- Role changes were key
+- Pragmatic (not obsessive) code quality was key
