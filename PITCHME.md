@@ -1,8 +1,8 @@
-# Escaping Software Delivery Quicksand
+# Starting Over
 
-Having The Bravery To Start Over
+A *Software Delivery Quicksand* Escape Story
 
-Nico de Wet
+Nico de Wet - 2018
 
 ![Thorgil](http://www.thorgil.com/thorgil.png)
 
