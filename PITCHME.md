@@ -484,10 +484,14 @@ Remind audience that the rule comes from [Expecting Professionalism](https://you
 
 ---
 
-## Conclusion
+## Conclusion: Experience Matters
 
 - Have to realise you are in quicksand
 - Particular type of team *may* be able to help
+
+---
+
+## Conclusion: Team Players
 
 2 out of 3 developers:
 
