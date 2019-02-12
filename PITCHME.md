@@ -1,6 +1,6 @@
 # Escaping Software Delivery Quicksand
 
-A startup war story.
+Having The Bravery To Start Over
 
 Nico de Wet
 
@@ -19,6 +19,7 @@ Nico de Wet
 
 - Useful metaphor
 - ASP.NET Zero *may* help in some situations
+- Technology is not key point here
 
 ---
 
