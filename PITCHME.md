@@ -488,6 +488,7 @@ Remind audience that the rule comes from [Expecting Professionalism](https://you
 
 - Have to realise you are in quicksand
 - A particular type of team *may* be able to give hope of escape
+- 2 out of 3 developers put saving the company ahead of themselves
 
 ---
 
