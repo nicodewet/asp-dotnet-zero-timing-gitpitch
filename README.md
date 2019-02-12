@@ -1,4 +1,4 @@
-# ASP.NET Zero: The Right Framework At The Right Time
+# Escaping Software Delivery Quicksand: Having The Bravery To Start Over
 
 To view this presentation please navigate to https://gitpitch.com/nicodewet/asp-dotnet-zero-timing-gitpitch/master
 
