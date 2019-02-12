@@ -496,4 +496,4 @@ Remind audience that the rule comes from [Expecting Professionalism](https://you
 - Having the bravery to start from scratch was key
 - Architectural simplifaction was key
 - Role changes were key
-- Pragmatic (not obsessive) code quality was key
+- Starting from a quality codebase was key
